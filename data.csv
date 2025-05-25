@@ -1,0 +1,16 @@
+Employment_Duration_Years,Bank_Deposit_Gaps,Avg_EndOfMonth_Balance,Monthly_Income,Household_Income,Monthly_Obligations,Residence_Stability_Years,Sector_Risk_Level,Mobile_Recharge_Consistency,Location_Risk_Level,Credit_Score,Company_Tenure_Years,Employment_Progression
+6,False,25000,50000,120000,15000,8,Low,True,Low,780,4,Strong
+2,True,8000,40000,45000,20000,3,Medium,True,Medium,680,1.5,Moderate
+8,False,30000,75000,150000,22500,10,Low,True,Low,820,7,Strong
+0.5,True,2000,25000,25000,18000,1,High,False,High,520,0.5,None
+4,False,15000,60000,90000,30000,6,Medium,True,Low,720,3,Strong
+1.5,False,12000,35000,70000,17500,2,Low,True,Medium,650,1,Moderate
+10,False,50000,80000,200000,24000,15,Low,True,Low,800,8,Strong
+3,True,5000,45000,45000,31500,4,High,False,High,580,2,Moderate
+7,False,40000,90000,180000,27000,12,Medium,True,Low,750,5,Strong
+2.5,False,20000,55000,110000,38500,3,Low,True,Medium,700,2,Moderate
+0.8,True,3000,30000,35000,21000,0.5,Medium,False,Medium,540,0.5,None
+5,False,35000,70000,140000,21000,7,Low,True,Low,760,4,Strong
+1,True,6000,38000,50000,26600,2,High,True,High,610,0.8,Moderate
+9,False,45000,85000,170000,25500,20,Low,True,Low,790,9,Strong
+3.5,False,18000,42000,84000,29400,5,Medium,True,Medium,670,3,Moderate
